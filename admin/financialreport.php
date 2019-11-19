@@ -82,7 +82,7 @@ $totalpayment = $row['totalpayment'];
 
 ?>
 <tr>
-<td colspan="5" align="right">Total Fees: <?php echo $totalpayment; ?></td>
+<td colspan="5" align="right">Total Fee Payed: <?php echo $totalpayment; ?></td>
 </tr>
 </table>
 </div>
@@ -130,7 +130,7 @@ $totaldonation = $row['totaldonation'];
 
 ?>
 <tr>
-<td colspan="5" align="right">Total Donation: <?php echo $totaldonation; ?></td>
+<td colspan="5" align="right">Total Donation Collected: <?php echo $totaldonation; ?></td>
 </tr>
 </table>
 </div>
@@ -176,7 +176,7 @@ $totalusage = $row['totalusage'];
 
 ?>
 <tr>
-<td colspan="5" align="right">Total Usage: <?php echo $totalusage; ?></td>
+<td colspan="5" align="right">Total Expenses Used: <?php echo $totalusage; ?></td>
 </tr>
 </table>
 </div>
