@@ -1,2 +1,2 @@
 # CMSNexus
-This system is about Clun management in UMP
+This system is about Club management in UMP
